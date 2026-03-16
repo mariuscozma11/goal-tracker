@@ -51,7 +51,7 @@ Pipeline stages:
 - Stage 3: Advancing (positive signals)
 - Stage 4: Complete (outcome achieved)
 
-
+# Goals
 ### Well-being based goals:
 - I want to run a semi-marathon (Milestone System)
 - I want to not smoke for 6 months (Abstinence System)
