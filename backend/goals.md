@@ -64,13 +64,9 @@ Milestones (define per goal):
 - I want to improve my programming skills (XP System)
 
 ### Education based goals:
-- I want to finish college
-- I want to get a career boosting certification
+- I want to finish college (Quest System)
+- I want to get a career boosting certification (Quest System)
 
-### Personal goals:
-- I want to be a better boyfriend
-- I want to be a better friend
-- I want to be a better son
 
 ## Goal: I want to run a semi-marathon (Milestone System)
 
@@ -377,3 +373,73 @@ Deep programming knowledge supports all work goals - better job prospects, highe
 T (Time-Bound)  - What is the time frame for acomplishing this goal?
 
 Reach "Consistent" level (50) within 3 months. Maintain above "Building" (25) for 6 consecutive months.
+
+## Goal: I want to finish college (Quest System)
+
+S (Specific)    - What will be acoimplished? What actions will you take?
+
+Accomplishment: Complete final year of mechanical engineering - pass all exams and defend licență.
+Actions:        Prepare for exams, write licență thesis, prepare licență presentation.
+
+M (Measurable)  - What data will measure the goal?How much? How well?
+
+Quest tracking system:
+
+Effort (XP):
+- Activities: exam prep session (+2 XP), licență writing (+3 XP), licență research (+2 XP)
+- First activity of the day: full XP
+- Second+ activity same day: half XP (rounded down)
+- After 3 days of no activity: meter decreases by 1 per day
+
+Stages:
+- Stage 1: Exams in progress
+- Stage 2: All exams passed
+- Stage 3: Licență submitted
+- Stage 4: Licență presented, graduated
+
+A (Achievable)  - Is the goal doable? Do you have the necessary skills and resources?
+
+The goal is achievable. Final year with reduced frequency - mainly requires exam preparation and licență work.
+
+R (Relevant)    - How does the goal align with broader goals? Why is the result important?
+
+Completing the degree closes this chapter and provides a foundation. Opens doors for further education or certifications if desired.
+
+T (Time-Bound)  - What is the time frame for acomplishing this goal?
+
+Exams ~June, licență ~July. Graduate by end of July.
+
+## Goal: I want to get a career boosting certification (Quest System)
+
+S (Specific)    - What will be acoimplished? What actions will you take?
+
+Accomplishment: Choose and obtain a relevant certification for software development career.
+Actions:        Research certification options, study materials, take practice tests, pass certification exam.
+
+M (Measurable)  - What data will measure the goal?How much? How well?
+
+Quest tracking system:
+
+Effort (XP):
+- Activities: research certifications (+1 XP), study session (+2 XP), practice test (+2 XP)
+- First activity of the day: full XP
+- Second+ activity same day: half XP (rounded down)
+- After 3 days of no activity: meter decreases by 1 per day
+
+Stages:
+- Stage 1: Certification chosen
+- Stage 2: Studying
+- Stage 3: Exam scheduled
+- Stage 4: Certified
+
+A (Achievable)  - Is the goal doable? Do you have the necessary skills and resources?
+
+The goal is achievable with focused study. Resources: online courses, practice exams, existing development knowledge.
+
+R (Relevant)    - How does the goal align with broader goals? Why is the result important?
+
+A certification validates skills, improves job prospects for remote/hybrid positions, and demonstrates commitment to professional growth.
+
+T (Time-Bound)  - What is the time frame for acomplishing this goal?
+
+Choose certification within 1 month. Pass exam within 4 months of choosing.
