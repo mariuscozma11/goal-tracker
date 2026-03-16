@@ -36,8 +36,8 @@ For ongoing habit-based goals requiring consistent practice.
 - After 3 days of no activity: meter decreases by 1 per day
 - Milestones at XP thresholds (e.g., 10, 25, 50, 100)
 
-## Pipeline System
-For outcome-based goals with stages of progression.
+## Quest System
+For outcome-based goals requiring consistent effort toward concrete achievements.
 
 Effort (XP):
 - Define activities with XP values
@@ -45,11 +45,9 @@ Effort (XP):
 - Second+ activity same day: half XP (rounded down)
 - After 3 days of no activity: meter decreases by 1 per day
 
-Pipeline stages:
-- Stage 1: Foundation (prep work done)
-- Stage 2: Active (in the pipeline)
-- Stage 3: Advancing (positive signals)
-- Stage 4: Complete (outcome achieved)
+Milestones (define per goal):
+- Stages (linear): Stage 1 → 2 → 3 → Complete (e.g., job search)
+- Counts (cumulative): 1 → 3 → 5 → 10 achievements (e.g., PRs merged)
 
 # Goals
 ### Well-being based goals:
@@ -60,15 +58,13 @@ Pipeline stages:
 - I want to fix my posture (XP System)
 
 ### Work based goals:
-- I want to get a remote or hybrid job (Pipeline System)
-- I want to obtain 3 projects for my software development company (Pipeline System)
-- I want to contribute to open source
-- I want to start an open source project
-- I want to improve my programming skills
+- I want to get a remote or hybrid job (Quest System)
+- I want to obtain 3 projects for my software development company (Quest System)
+- I want to contribute to open source (Quest System)
+- I want to improve my programming skills (XP System)
 
 ### Education based goals:
 - I want to finish college
-- I want to go to computer science masters
 - I want to get a career boosting certification
 
 ### Personal goals:
@@ -247,7 +243,7 @@ T (Time-Bound)  - What is the time frame for acomplishing this goal?
 
 Reach "Consistent" level (50) within 2 months. Maintain above "Building" (25) for 3 consecutive months.
 
-## Goal: I want to get a remote or hybrid job (Pipeline System)
+## Goal: I want to get a remote or hybrid job (Quest System)
 
 S (Specific)    - What will be acoimplished? What actions will you take?
 
@@ -256,7 +252,7 @@ Actions:        Update CV/portfolio, apply to relevant positions, network with i
 
 M (Measurable)  - What data will measure the goal?How much? How well?
 
-Pipeline tracking system:
+Quest tracking system:
 
 Effort (XP):
 - Activities: job application (+2 XP), networking/outreach (+2 XP), interview prep (+1 XP), portfolio update (+2 XP)
@@ -281,3 +277,103 @@ A remote/hybrid job provides flexibility, better work-life balance, and income s
 T (Time-Bound)  - What is the time frame for acomplishing this goal?
 
 Reach Stage 2 (Active) within 1 month. Reach Stage 4 (Complete) within 4 months.
+
+## Goal: I want to obtain 3 projects for my software development company (Quest System)
+
+S (Specific)    - What will be acoimplished? What actions will you take?
+
+Accomplishment: I will secure 3 client projects for my software development company.
+Actions:        Identify target clients/industries, reach out via cold emails/LinkedIn/networking, send proposals, conduct meetings, negotiate and close contracts.
+
+M (Measurable)  - What data will measure the goal?How much? How well?
+
+Quest tracking system:
+
+Effort (XP):
+- Activities: outreach/cold contact (+2 XP), proposal sent (+3 XP), meeting/call completed (+3 XP), networking event (+2 XP)
+- First activity of the day: full XP
+- Second+ activity same day: half XP (rounded down)
+- After 3 days of no activity: meter decreases by 1 per day
+
+Pipeline stages (repeat 3x):
+- Stage 1: Lead identified (potential client found)
+- Stage 2: Contact made (responded positively)
+- Stage 3: Proposal sent (meeting held, proposal delivered)
+- Stage 4: Contract signed (project secured)
+
+Goal complete when 3 projects reach Stage 4.
+
+A (Achievable)  - Is the goal doable? Do you have the necessary skills and resources?
+
+The goal is achievable with consistent outreach. Resources: existing portfolio, development skills, professional network, LinkedIn, freelance platforms if needed.
+
+R (Relevant)    - How does the goal align with broader goals? Why is the result important?
+
+Building the company provides income, professional growth, and flexibility. Aligns with remote work goal and improves programming skills through real projects.
+
+T (Time-Bound)  - What is the time frame for acomplishing this goal?
+
+First project within 2 months. All 3 projects secured within 6 months.
+
+## Goal: I want to contribute to open source (Quest System)
+
+S (Specific)    - What will be acoimplished? What actions will you take?
+
+Accomplishment: I will become a regular open source contributor with approved PRs on established projects.
+Actions:        Find projects aligned with my skills/interests, study codebases, fix issues/add features, submit quality PRs, respond to review feedback.
+
+M (Measurable)  - What data will measure the goal?How much? How well?
+
+Quest tracking system:
+
+Effort (XP):
+- Activities: exploring/reading codebase (+1 XP), submitting PR (+3 XP), PR approved/merged (+5 XP), reviewing others' code (+2 XP)
+- First activity of the day: full XP
+- Second+ activity same day: half XP (rounded down)
+- After 3 days of no activity: meter decreases by 1 per day
+
+Milestones (count):
+- M1: 1 PR approved
+- M2: 3 PRs approved
+- M3: 5 PRs approved
+- M4: 10 PRs approved
+
+A (Achievable)  - Is the goal doable? Do you have the necessary skills and resources?
+
+The goal is achievable with consistent effort. Resources: existing development skills, GitHub account, time to explore and contribute to projects.
+
+R (Relevant)    - How does the goal align with broader goals? Why is the result important?
+
+Contributing to open source sharpens programming skills by working on real-world scalable projects, improves GitHub portfolio for job searches, and contributes to technological advancement.
+
+T (Time-Bound)  - What is the time frame for acomplishing this goal?
+
+Reach M2 (3 approved PRs) within 3 months. Reach M3 (5 approved PRs) within 6 months.
+
+## Goal: I want to improve my programming skills (XP System)
+
+S (Specific)    - What will be acoimplished? What actions will you take?
+
+Accomplishment: I will deepen my programming skills through practical low-level coding and broad exploration of programming concepts.
+Actions:        Build projects in C/C++/Rust/Go, solve DSA/leetcode problems, explore different domains (distributed systems, protocols, containers, system design, etc.)
+
+M (Measurable)  - What data will measure the goal?How much? How well?
+
+XP-based tracking:
+- Activities: project in C/C++/Rust/Go (+3 XP), DSA/leetcode problem solved (+2 XP)
+- First activity of the day: full XP
+- Second+ activity same day: half XP (rounded down)
+- After 3 days of no activity: meter decreases by 1 per day
+- Milestones: 10 (Started), 25 (Building), 50 (Consistent), 100 (Skilled)
+
+A (Achievable)  - Is the goal doable? Do you have the necessary skills and resources?
+
+The goal is achievable with consistent practice. Resources: existing development background, online resources, project ideas from explored domains.
+
+R (Relevant)    - How does the goal align with broader goals? Why is the result important?
+
+Deep programming knowledge supports all work goals - better job prospects, higher quality client projects, and more impactful open source contributions. Understanding low-level concepts makes you a better programmer at any level.
+
+T (Time-Bound)  - What is the time frame for acomplishing this goal?
+
+Reach "Consistent" level (50) within 3 months. Maintain above "Building" (25) for 6 consecutive months.
